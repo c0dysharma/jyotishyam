@@ -1,0 +1,44 @@
+{
+    "Shyam Bhat": {
+        "DOB": {
+            "year": 1991,
+            "month": 10,
+            "day": 8
+        },
+        "TOB": {
+            "hour": 14,
+            "min": 47,
+            "sec": 9
+        },
+        "POB": {
+            "name": "Honavar",
+            "lon": 14.2833,
+            "lat": 74.45,
+            "timezone": 5.5
+        },
+        "name": "Shyam Bhat",
+        "Gender": "Male",
+        "Comments": "This is Birth data of creator of this software."
+    },
+    "Deepa Bhat": {
+        "DOB": {
+            "year": 1997,
+            "month": 7,
+            "day": 5
+        },
+        "TOB": {
+            "hour": 8,
+            "min": 40,
+            "sec": 48
+        },
+        "POB": {
+            "name": "kundgol",
+            "lon": 15.2553,
+            "lat": 75.2475,
+            "timezone": 5.5
+        },
+        "name": "Deepa Bhat",
+        "Gender": "Female",
+        "Comments": "This is Birth data of creator of this software."
+    }
+}
